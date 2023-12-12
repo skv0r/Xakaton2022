@@ -1,6 +1,3 @@
-Кодировка
-
-UTF-8
 <?php
 
 /* https://api.telegram.org/botXXXXXXXXXXXXXXXXXXXXXXX/getUpdates,
